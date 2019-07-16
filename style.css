@@ -23,7 +23,7 @@
             .navbar{
                 list-style-type: none;
                 margin: 0;
-                background-color: #999;
+                background-color: #f5f6fa;
                 text-align: center;
 
 
@@ -37,12 +37,13 @@
                 margin: 0 20px;
                 font-size: 18px;
                 line-height: 50px;
-                color: #fff;
+                color: #000;
                 transition-duration: .4s;
             }
             .navbar a:hover{
-                padding: 10px 20px;
-                background-color: peru;
+                padding: 0 20px;
+                color: #fff;
+                background-color: rgba(19, 18, 18, 0.849);
             }
             main {
                 max-width: 960px;
